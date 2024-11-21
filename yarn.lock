@@ -2451,18 +2451,13 @@
   resolved "https://registry.npmjs.org/@react-native-community/masked-view/-/masked-view-0.1.11.tgz"
   integrity sha512-rQfMIGSR/1r/SyN87+VD8xHHzDYeHaJq6elOSCAD+0iLagXkSI2pfA0LmSXP21uw5i3em7GkkRjfJ8wpqWXZNw==
 
-"@react-native-firebase/app@^21.5.0", "@react-native-firebase/app@21.5.0":
+"@react-native-firebase/app@^21.5.0":
   version "21.5.0"
   resolved "https://registry.npmjs.org/@react-native-firebase/app/-/app-21.5.0.tgz"
   integrity sha512-hCzoPH1GshHV37swPyiuCbi3zfQL9hKpJpakr7q5KH7g14SkLDxb9jFXvmj5Gw5axTYMpButynKbar8HYIIn6w==
   dependencies:
     firebase "10.13.2"
     superstruct "^0.6.2"
-
-"@react-native-firebase/storage@^21.5.0":
-  version "21.5.0"
-  resolved "https://registry.npmjs.org/@react-native-firebase/storage/-/storage-21.5.0.tgz"
-  integrity sha512-VNySoZCBvsQ3XxRfMEdRONRzgctACPlquMWeAX4OZ6+P72WKOVFUWnKHpSrV4Lse3l6slZZ8pbpm1xUopVXAiw==
 
 "@react-native/assets-registry@0.76.2":
   version "0.76.2"
@@ -3949,18 +3944,6 @@ expo-font@~13.0.1:
   integrity sha512-8JE47B+6cLeKWr5ql8gU6YsPHjhrz1vMrTqYMm72No/8iW8Sb/uL4Oc0dpmbjq3hLLXBY0xPBQOgU7FQ6Y04Vg==
   dependencies:
     fontfaceobserver "^2.1.0"
-
-expo-image-loader@~5.0.0:
-  version "5.0.0"
-  resolved "https://registry.npmjs.org/expo-image-loader/-/expo-image-loader-5.0.0.tgz"
-  integrity sha512-Eg+5FHtyzv3Jjw9dHwu2pWy4xjf8fu3V0Asyy42kO+t/FbvW/vjUixpTjPtgKQLQh+2/9Nk4JjFDV6FwCnF2ZA==
-
-expo-image-picker@~16.0.2:
-  version "16.0.2"
-  resolved "https://registry.npmjs.org/expo-image-picker/-/expo-image-picker-16.0.2.tgz"
-  integrity sha512-wlJy2EjZQlbz6v3QAOfpHWhq8GXXER5z7TeSTo5rMdQ/gn9B4YDGxY4nQqI+LRFBuIxpEnOXizUGDUJsoDwo6A==
-  dependencies:
-    expo-image-loader "~5.0.0"
 
 expo-keep-awake@~14.0.1:
   version "14.0.1"
@@ -6025,11 +6008,6 @@ react-is@^18.2.0:
     hoist-non-react-statics "^3.3.0"
     invariant "^2.2.4"
     prop-types "^15.7.2"
-
-react-native-image-picker@^7.1.2:
-  version "7.1.2"
-  resolved "https://registry.npmjs.org/react-native-image-picker/-/react-native-image-picker-7.1.2.tgz"
-  integrity sha512-b5y5nP60RIPxlAXlptn2QwlIuZWCUDWa/YPUVjgHc0Ih60mRiOg1PSzf0IjHSLeOZShCpirpvSPGnDExIpTRUg==
 
 react-native-mask-input@^1.2.3:
   version "1.2.3"

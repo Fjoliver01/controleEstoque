@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "BarbeariaApp",
-    "slug": "BarbeariaApp",
+    "name": "Lanchonete",
+    "slug": "Lanchonete",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -12,7 +12,10 @@
       "backgroundColor": "#ffffff"
     },
     "extra": {
-      "IMGUR_CLIENT_ID": "52af9895b91f589"
+      "IMGUR_CLIENT_ID": "52af9895b91f589",
+      "eas": {
+        "projectId": "acc079bc-1f6f-4e63-bfc4-ab9c27a35cdc"
+      }
     },
     "ios": {
       "supportsTablet": true
@@ -21,7 +24,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.projeto.Lanchonete"
     },
     "web": {
       "favicon": "./assets/favicon.png"
